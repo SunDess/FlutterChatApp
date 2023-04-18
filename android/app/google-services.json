@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "237820494763",
+    "project_id": "flash-chat-ec40e",
+    "storage_bucket": "flash-chat-ec40e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237820494763:android:dccc0e8ca684272d4c88ee",
+        "android_client_info": {
+          "package_name": "com.vanity.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237820494763-8fnnb1m4udimtva4uogibkpr2phjigti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhn0d-M27_065J18HRQA_SMveXTbY_IWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237820494763-8fnnb1m4udimtva4uogibkpr2phjigti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
